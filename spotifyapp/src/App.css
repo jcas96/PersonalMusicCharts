@@ -1,0 +1,37 @@
+
+
+*{
+  background-color: #1F2833;
+  color:#C5C6C7;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+li{
+  font-size: larger;
+}
+
+img{
+  width:auto;
+  height:auto;
+}
+button{
+  background-color: black;
+  color:#1DB954;
+  font-weight:bolder;
+  font-size: larger;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnBox{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+
+}
