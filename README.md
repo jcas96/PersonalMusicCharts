@@ -3,7 +3,7 @@ This Program allows you to get your top spotify data.
 In this video, my personal spotify data is displayed and output for you!
 Check it out down below
 
-<img src=[https://github.com/jcas96/PersonalMusicCharts/blob/main/TopMusicCharts.gif]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jcas96/PersonalMusicCharts/blob/main/TopMusicCharts.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Check out the website here [https://yourtopstats.netlify.app/]
 - If you would like to test this out, 
